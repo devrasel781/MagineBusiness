@@ -1,0 +1,2072 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: magine/plugins/magine-features/elementor.php:1
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/elementor.php:1
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#. Text in function
+#: magine/comments.php:34
+msgid "%1$d %2$s for \"%3$s\""
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:414
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:414
+msgid "(Edit)"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "2 Column"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "3 Column"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "3 Column (v2)"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "4 Column"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "404"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "404 Page"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "900x600 px"
+msgstr ""
+
+#. Text in echo
+#: magine/templates/authorbox-template.php:4
+msgid "About The Author"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/adsadmin.php:34
+msgid "Add Another Code"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+msgid "Add Another Icon"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/adsadmin.php:34
+msgid "Add Another Image"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Add Border"
+msgstr ""
+
+#. Text in function
+#: magine/includes/bs4navwalker.php:1
+msgid "Add a menu"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+msgid "Additional Author Fields"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+msgid "Additional Fields"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/adsadmin.php:1
+msgid "Ads Manager"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/adsadmin.php:34
+msgid "After Posts"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/adsadmin.php:34
+msgid "After Single Post"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/button.php:1
+msgid "Alignment"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "All font-sizes in the theme will scaled according to this value."
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+msgid "Amazon"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+msgid "Android"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+msgid "Apple"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/checkout/form-coupon.php:37
+#: magine/woocommerce/cart/cart.php:144
+msgid "Apply coupon"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Ascending"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Author"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Author Box"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/button.php:1
+msgid "Auto"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Available Social Media Buttons"
+msgstr ""
+
+#. Text in function
+#: magine/woocommerce/cart/cart.php:123
+msgid "Available on backorder"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Back to Home"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Background"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Background Color"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Background Hover Color"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Background Image"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/adsadmin.php:34
+msgid "Before Footer"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/adsadmin.php:34
+msgid "Before Posts"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/adsadmin.php:34
+msgid "Before Single Post"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+msgid "Behance"
+msgstr ""
+
+#. Text in function
+#: magine/woocommerce/myaccount/my-address.php:1
+msgid "Billing address"
+msgstr ""
+
+#. Text in echo
+#: magine/index.php:11
+#: magine/includes/bs4breadcrumb.php:1
+#: magine/includes/kirki.php:1
+msgid "Blog"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Blog - 1 Column Template"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Blog - 2 Column Templates"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Blog - 3 Column Templates"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Blog - 4 Column Templates"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Blog Subtitle"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Body"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Border"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/heading.php:1
+msgid "Border Color"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/heading.php:1
+msgid "Border Height (px)"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Border Radius"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Button Link"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Button Style"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Button Text"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+msgid "CMB2"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+msgid "Card Style"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Card style"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Categories"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/button.php:1
+msgid "Center"
+msgstr ""
+
+#. Text in function
+#: magine/woocommerce/checkout/form-coupon.php:1
+msgid "Click here to enter your code"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/adsadmin.php:34
+msgid "Code {#}"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/adsadmin.php:34
+msgid "Code:"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+msgid "Codepen"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Color"
+msgstr ""
+
+#. Text in echo
+#: magine/comments.php:8
+msgid "Comments"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+msgid "Contact Form 7"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/checkout/form-coupon.php:35
+#: magine/woocommerce/cart/cart.php:141
+msgid "Coupon code"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Credits"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+#: magine/plugins/magine-features/widgets/alert.php:1
+#: magine/plugins/magine-features/widgets/button.php:1
+msgid "Danger"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+#: magine/plugins/magine-features/widgets/button.php:1
+msgid "Dark"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/checkout/thankyou.php:49
+msgid "Date:"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+#: magine/includes/kirki.php:1
+msgid "Default"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Default Browser Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Default Shop Cover Image"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Default Thumbnail Size for Masonry Layout"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Default blog layout"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Default link is your homepage"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+msgid "Delicious"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Descending"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Description"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+#: magine/plugins/magine-features/widgets/heading.php:1
+msgid "Destination URL"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/adsadmin.php:34
+msgid "Destination URL:"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+msgid "Deviantart"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+msgid "Digg"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/alert.php:1
+msgid "Dismissible"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Display background images"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Display post counts"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Display related posts by"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+msgid "Dribbble"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Dropdown Background Color"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Dropdown Link Color"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Dropdown Link Hover Color"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Each row is a new icon."
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/myaccount/my-address.php:46
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/plugins/magine-features/elementor.php:1
+msgid "Elementor"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+#: magine/includes/kirki.php:1
+#: magine/templates/share-template.php:16
+#: magine/plugins/magine-features/social-media.php:16
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/myaccount/form-login.php:80
+msgid "Email address"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/checkout/thankyou.php:55
+msgid "Email:"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/adsadmin.php:34
+msgid "Enable Ads Manager"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Enable Author Box"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Enable FullScreen Search"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Enable next/previous post navigation"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Enable related posts"
+msgstr ""
+
+#. Text in echo
+#: magine/searchform.php:3
+#: magine/templates/searchlg-template.php:3
+msgid "Enter a keyword..."
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+msgid "Etsy"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+msgid "Example; http://www.facebook.com"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/adsadmin.php:34
+msgid "Example; https://www.thememasters.club"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Exclude pages from blog search results"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+#: magine/includes/kirki.php:1
+#: magine/templates/share-template.php:25
+#: magine/plugins/magine-features/social-media.php:25
+msgid "Facebook"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+msgid "First Column."
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+msgid "Flickr"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "FontAwesome Icon"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Footer"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+msgid "Footer 1"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+msgid "Footer 2"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+msgid "Footer 3"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+msgid "Footer 4"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Footer Layout"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+#: magine/includes/kirki.php:1
+msgid "Four Column"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+msgid "Foursquare"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+msgid "Fourth Column"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Full"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/button.php:1
+msgid "Fullwidth"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "General"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+msgid "Github"
+msgstr ""
+
+#. Text in echo
+#: magine/templates/footericons-template.php:22
+msgid "Go to Top"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+msgid "Google"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+msgid "Google +"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/heading.php:1
+msgid "H1"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/heading.php:1
+msgid "H2"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/heading.php:1
+msgid "H3"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/heading.php:1
+msgid "H4"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/heading.php:1
+msgid "H5"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/heading.php:1
+msgid "H6"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/heading.php:1
+msgid "HTML Tag"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+#: magine/templates/share-template.php:97
+#: magine/plugins/magine-features/social-media.php:97
+msgid "Hackernews"
+msgstr ""
+
+#. Text in function
+#: magine/woocommerce/checkout/form-coupon.php:1
+msgid "Have a coupon?"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+#: magine/includes/kirki.php:1
+msgid "Header"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/adsadmin.php:34
+msgid "Header (Layout 3)"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+msgid "Header Image"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Header Layout"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+msgid "Header Style"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Heading"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Heading 1"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Heading 2"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Heading 3"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Heading 4"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Heading 5"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Heading 6"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Heading Color"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Heading Level"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Headings"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+#: magine/includes/kirki.php:1
+msgid "Hide Sidebar"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+#: magine/includes/kirki.php:1
+msgid "Horizontal"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Hover Color"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "ID"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Icon Background Color"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Icon Color"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Icon Hover Color"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+msgid "Icon {#}"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Icons"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/adsadmin.php:34
+msgid "Image {#}"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/adsadmin.php:34
+msgid "Image:"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+#: magine/plugins/magine-features/widgets/alert.php:1
+#: magine/plugins/magine-features/widgets/button.php:1
+msgid "Info"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+msgid "Instagram"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+msgid "Kirki"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+#: magine/plugins/magine-features/widgets/button.php:1
+msgid "Large"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+msgid "Lastfm"
+msgstr ""
+
+#. Text in echo
+#: magine/templates/authorbox-template.php:7
+msgid "Latest Posts"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+msgid "Layout"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+#: magine/includes/kirki.php:1
+msgid "Layout 1"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+#: magine/includes/kirki.php:1
+msgid "Layout 2"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+#: magine/includes/kirki.php:1
+msgid "Layout 3"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+#: magine/includes/kirki.php:1
+msgid "Layout 4"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/button.php:1
+msgid "Left"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+#: magine/plugins/magine-features/widgets/button.php:1
+msgid "Light"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+msgid "Lightbox with PhotoSwipe"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/heading.php:1
+msgid "Link Background Color"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+#: magine/plugins/magine-features/widgets/heading.php:1
+msgid "Link Color"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+#: magine/plugins/magine-features/widgets/heading.php:1
+msgid "Link Hover Color"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Link Target"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/heading.php:1
+msgid "Link Text"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/heading.php:1
+msgid "Link Typography"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/button.php:1
+msgid "Link to"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+msgid "Link:"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+#: magine/includes/kirki.php:1
+#: magine/templates/share-template.php:43
+#: magine/plugins/magine-features/social-media.php:43
+msgid "Linkedin"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "List"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/myaccount/form-login.php:29
+#: magine/woocommerce/myaccount/form-login.php:48
+msgid "Login"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Logo"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Logo Width"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Logo Width (Mobile)"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/myaccount/form-login.php:54
+msgid "Lost your password?"
+msgstr ""
+
+#. Text in function
+#: magine/woocommerce/myaccount/form-lost-password.php:29
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#. Text in echo
+#: magine/templates/header/header-template.php:76
+#: magine/templates/header/header2-template.php:51
+#: magine/templates/header/header4-template.php:18
+#: magine/templates/header/header3-template.php:35
+msgid "MENU"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/alert.php:1
+msgid "MG Alert"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/button.php:1
+msgid "MG Button"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "MG Categories"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/heading.php:1
+msgid "MG Heading"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/magine-features.php:1
+msgid "Magine"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/plugins/magine-features/elementor.php:1
+msgid "Magine Features"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+msgid "Magine Hero Image"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+msgid "Magine Thumbnail"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+msgid "Magine Vertical Thumbnail"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+msgid "Main Menu"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+msgid "Main Sidebar"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+#: magine/plugins/magine-features/widgets/heading.php:1
+msgid "Margin"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+#: magine/includes/kirki.php:1
+msgid "Masonry Spacing"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Masonry Thumbnail Size"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Maximum Sliding Panel width in pixels."
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Maximum number of categories"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Maximum number of the posts"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Maximum number of the posts."
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Maximum number of the products."
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Maximum number of the related posts"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Medium"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Menu"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/checkout/thankyou.php:33
+msgid "My account"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+#: magine/includes/kirki.php:1
+msgid "Narrow"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "New Window"
+msgstr ""
+
+#. Text in function
+#: magine/comments.php:22
+msgid "Newer comments"
+msgstr ""
+
+#. Text in echo
+#: magine/templates/postnav-template.php:13
+msgid "Next Post"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+#: magine/plugins/magine-features/widgets/cats.php:1
+#: magine/plugins/magine-features/widgets/alert.php:1
+msgid "No"
+msgstr ""
+
+#. Text in function
+#: magine/search.php:11
+msgid "No Results Found"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/cart/mini-cart.php:79
+msgid "No products in the cart."
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/adsadmin.php:34
+msgid "None"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/button.php:1
+msgid "Normal"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+msgid "Odnoklassniki"
+msgstr ""
+
+#. Text in function
+#: magine/comments.php:19
+msgid "Older comments"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+msgid "One Click Demo Import"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+#: magine/includes/kirki.php:1
+msgid "One Column"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Order"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Order By"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/checkout/thankyou.php:44
+msgid "Order number:"
+msgstr ""
+
+#. Text in echo
+#: magine/includes/woo-functions.php:31
+msgid "Out of Stock"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Overlay Background Color 1"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Overlay Background Color 2"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/elementor.php:1
+msgid "PHP"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Padding"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Page Title"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Page layout"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/myaccount/form-login.php:40
+#: magine/woocommerce/myaccount/form-login.php:87
+msgid "Password"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/adsadmin.php:34
+msgid "Paste your code snippet in the textbox above"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/checkout/thankyou.php:31
+msgid "Pay"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/checkout/thankyou.php:67
+msgid "Payment method:"
+msgstr ""
+
+#. Text in function
+#: magine/comments.php:28
+msgid "Pings&#47;Trackbacks"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+#: magine/includes/kirki.php:1
+#: magine/templates/share-template.php:79
+#: magine/plugins/magine-features/social-media.php:79
+msgid "Pinterest"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Placeholder Image"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+#: magine/templates/share-template.php:88
+#: magine/plugins/magine-features/social-media.php:88
+msgid "Pocket"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Post Count"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Post Counts"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Post Layout"
+msgstr ""
+
+#. Text in echo
+#: magine/templates/postnav-template.php:5
+msgid "Previous Post"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/cart/cart.php:36
+#: magine/woocommerce/cart/cart.php:98
+msgid "Price"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+#: magine/plugins/magine-features/widgets/alert.php:1
+#: magine/plugins/magine-features/widgets/button.php:1
+msgid "Primary"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Primary Color"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/cart/cart.php:35
+#: magine/woocommerce/cart/cart.php:78
+msgid "Product"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Product Thumbnail Size"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Product layout"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/cart/cart.php:37
+#: magine/woocommerce/cart/cart.php:104
+msgid "Quantity"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+#: magine/includes/kirki.php:1
+#: magine/templates/share-template.php:61
+#: magine/plugins/magine-features/social-media.php:61
+msgid "Reddit"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/myaccount/form-login.php:64
+#: magine/woocommerce/myaccount/form-login.php:97
+msgid "Register"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Related Products"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Related posts layout"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Related posts title"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/single-product/related.php:26
+msgid "Related products"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/myaccount/form-login.php:50
+msgid "Remember me"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/adsadmin.php:34
+msgid "Remove Code"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+msgid "Remove Icon"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/adsadmin.php:34
+msgid "Remove Image"
+msgstr ""
+
+#. Text in function
+#: magine/woocommerce/cart/cart.php:123
+#: magine/woocommerce/cart/mini-cart.php:42
+msgid "Remove this item"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/myaccount/form-lost-password.php:40
+msgid "Reset password"
+msgstr ""
+
+#. Text in function
+#: magine/search.php:11
+msgid "Result Found"
+msgstr ""
+
+#. Text in function
+#: magine/search.php:11
+msgid "Results Found"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/button.php:1
+msgid "Right"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Same Frame"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: magine/search.php:30
+msgid "Search Results for:"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/product-searchform.php:25
+msgid "Search for:"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/product-searchform.php:27
+msgid "Search products..."
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+msgid "Second Column."
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/adsadmin.php:34
+msgid "Select Field:"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+msgid "Select Icon"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+msgid "Select Icon:"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/adsadmin.php:34
+msgid "Select a field to display this ad."
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+#: magine/plugins/magine-features/widgets/alert.php:1
+#: magine/plugins/magine-features/widgets/heading.php:1
+#: magine/plugins/magine-features/widgets/button.php:1
+msgid "Settings"
+msgstr ""
+
+#. Text in function
+#: magine/woocommerce/myaccount/my-address.php:1
+msgid "Shipping address"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Shop page show at most"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+msgid "Show Sidebar"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Single Post"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Single Product Image Column Size in Percents"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Single Product Image Size"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/button.php:1
+msgid "Size"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+msgid "Slack"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+msgid "Slide-in Sidebar"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Sliding Panel Width"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+msgid "Sliding Sidebar"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/button.php:1
+msgid "Small"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+msgid "Snapchat"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Social Icons"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+msgid "Social Media Icons"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Social Media Sharing Buttons"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+msgid "Soundcloud"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+msgid "Spotify"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Sticky Menu"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Stop Using Google CDN"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/alert.php:1
+#: magine/plugins/magine-features/widgets/button.php:1
+msgid "Style"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/heading.php:1
+msgid "Styles"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Sub Title"
+msgstr ""
+
+#. Text in function
+#: magine/comments.php:14
+msgid "Subscribe"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+#: magine/includes/kirki.php:1
+msgid "Subtitle"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+msgid "Subtitle (Optional)"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Subtitle Typography"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/cart/mini-cart.php:71
+msgid "Subtotal"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+#: magine/plugins/magine-features/widgets/alert.php:1
+#: magine/plugins/magine-features/widgets/button.php:1
+msgid "Success"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+msgid "TMC Posts"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Tags"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/alert.php:1
+#: magine/plugins/magine-features/widgets/button.php:1
+msgid "Text"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Text/Link Color"
+msgstr ""
+
+#. Text in function
+#: magine/woocommerce/checkout/thankyou.php:39
+#: magine/woocommerce/checkout/thankyou.php:83
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "The default fonts of the theme is loaded via Google CDN."
+msgstr ""
+
+#. Text in function
+#: magine/woocommerce/myaccount/my-address.php:38
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "The page you were looking for could not be found!"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Theme Settings"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+msgid "Third Column"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+msgid "This sidebar will be displayed on WooCommerce pages."
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+msgid "This sidebar will be displayed on blog pages."
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "This will be the link target"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+#: magine/includes/kirki.php:1
+msgid "Three Column"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/magine-features.php:1
+msgid "Thumbs"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+#: magine/plugins/magine-features/widgets/cats.php:1
+#: magine/plugins/magine-features/widgets/heading.php:1
+msgid "Title"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/heading.php:1
+msgid "Title Background Color"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/heading.php:1
+msgid "Title Color"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+#: magine/plugins/magine-features/widgets/heading.php:1
+msgid "Title Typography"
+msgstr ""
+
+#. Text in echo
+#: magine/templates/header/header-template.php:75
+#: magine/templates/header/header2-template.php:50
+#: magine/templates/header/header4-template.php:17
+#: magine/templates/header/header3-template.php:34
+msgid "Toggle Navigation"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/cart/cart.php:38
+#: magine/woocommerce/cart/cart.php:122
+msgid "Total"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/checkout/thankyou.php:61
+msgid "Total:"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+msgid "Trip Advisor"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+#: magine/includes/kirki.php:1
+#: magine/templates/share-template.php:52
+#: magine/plugins/magine-features/social-media.php:52
+msgid "Tumblr"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+msgid "Twitch"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+#: magine/includes/kirki.php:1
+#: magine/templates/share-template.php:34
+#: magine/plugins/magine-features/social-media.php:34
+msgid "Twitter"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+#: magine/includes/kirki.php:1
+msgid "Two Column"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Typography"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/checkout/thankyou.php:30
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/cart/cart.php:150
+msgid "Update cart"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/adsadmin.php:34
+msgid "Upload Image"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/adsadmin.php:34
+msgid "Upload an image or enter an URL."
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "Use featured images for only post thumbnails"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/myaccount/form-login.php:73
+msgid "Username"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/myaccount/form-lost-password.php:32
+msgid "Username or email"
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/myaccount/form-login.php:36
+msgid "Username or email address"
+msgstr ""
+
+#. Text in echo
+#: magine/templates/authorbox-template.php:85
+msgid "VIEW ALL POSTS BY"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/button.php:1
+msgid "VIEW MORE"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+#: magine/includes/kirki.php:1
+#: magine/templates/share-template.php:70
+#: magine/plugins/magine-features/social-media.php:70
+msgid "VK"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+#: magine/includes/kirki.php:1
+msgid "Vertical"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+#: magine/includes/kirki.php:1
+msgid "Vertical (Small)"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/heading.php:1
+msgid "View More"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+msgid "Vimeo"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+msgid "Vine"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+#: magine/plugins/magine-features/widgets/alert.php:1
+#: magine/plugins/magine-features/widgets/button.php:1
+msgid "Warning"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/alert.php:1
+msgid "Well done! You successfully read this important alert message."
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+#: magine/includes/kirki.php:1
+msgid "Wide"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/cats.php:1
+msgid "Widget Title"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/button.php:1
+msgid "Width"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/kirki.php:1
+msgid "WooCommerce"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+#: magine/includes/kirki.php:1
+#: magine/templates/share-template.php:106
+#: magine/plugins/magine-features/social-media.php:106
+msgid "Xing"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+#: magine/plugins/magine-features/widgets/cats.php:1
+#: magine/plugins/magine-features/widgets/alert.php:1
+msgid "Yes"
+msgstr ""
+
+#. Text in function
+#: magine/includes/kirki.php:1
+msgid "You May Also Like"
+msgstr ""
+
+#. Text in function
+#: magine/includes/functions.php:424
+#: magine/includes/meta-boxes.php:1
+msgid "You Tube"
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+msgid "You can change default background image from theme settings."
+msgstr ""
+
+#. Text in function
+#: magine/includes/meta-boxes.php:1
+msgid "You can change default header style from theme settings."
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/myaccount/my-address.php:48
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/single-product/up-sells.php:27
+msgid "You may also like&hellip;"
+msgstr ""
+
+#. Text in function
+#: magine/woocommerce/checkout/form-checkout.php:1
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#. Text in echo
+#: magine/woocommerce/checkout/form-checkout.php:50
+msgid "Your order"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/heading.php:1
+msgid "div"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/heading.php:1
+#: magine/plugins/magine-features/widgets/button.php:1
+msgid "https://your-link.com"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/heading.php:1
+msgid "p"
+msgstr ""
+
+#. Text in function
+#: magine/plugins/magine-features/widgets/heading.php:1
+msgid "span"
+msgstr ""
